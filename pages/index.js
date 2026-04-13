@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Head from "next/head";
 import { CATEGORIES } from "../lib/sources";
-import "../styles/globals.css";
+
 
 // ─── Spinner ───────────────────────────────────────────────────────────────
 function Spinner({ accent }) {
